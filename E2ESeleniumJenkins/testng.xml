@@ -3,9 +3,11 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="testcases.Tc_003"/>
       <class name="testcases.Tc_001"/>
       <class name="testcases.Tc_002"/>
+      <class name="testcases.Tc_003"/>
+      <class name="testcases.Tc_004"/>
+      <class name="testcases.Tc_005"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
